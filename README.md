@@ -16,7 +16,7 @@
 
 ## :star: **Execute the tests**
 
-- Follow the path: src/test/java/com/sovos/challenge/frontend/runner/Runner.java
+- Follow the path: src/test/java/com/challenge/automation/pratice/runner/Runner.java
 - Click Run As 
 
 ##  :brazil: :brazil: :brazil: 
